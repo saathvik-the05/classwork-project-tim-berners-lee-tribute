@@ -4,4 +4,4 @@ A single-page tribute to Tim Berners-Lee, inventor of the World Wide Web.
 
 **Built with:** HTML, CSS
 
-> Built in 2020 during a school coding course. Kept here as a record of early work; it has not been updated since.
+> Started as classwork in a school coding course (2020) and developed further as my own project. I wrote most of the HTML and CSS myself.
